@@ -1,4 +1,4 @@
-class NetlifyCTL < Formula
+class Netlifyctl < Formula
   desc "CLI to interact with netlify.com"
   homepage "https://github.com/netlify/netlifyctl"
   url "https://github.com/netlify/netlifyctl/releases/download/v0.1.4/netlifyctl-darwin-amd64.tar.gz"
