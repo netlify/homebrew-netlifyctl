@@ -1,9 +1,9 @@
 class Netlifyctl < Formula
   desc "CLI to interact with netlify.com"
   homepage "https://github.com/netlify/netlifyctl"
-  url "https://github.com/netlify/netlifyctl/releases/download/v0.1.5/netlifyctl-darwin-amd64.tar.gz"
-  version "0.1.5"
-  sha256 "245528a23fd6d264b1395bb177d1aaad4371333533af88b5bf112e9519876657"
+  url "https://github.com/netlify/netlifyctl/releases/download/v0.2.2/netlifyctl-darwin-amd64-0.2.2.tar.gz"
+  version "0.2.2"
+  sha256 "ae6a6ba56c74ba3388da0c1d4f01ea960d9e19bb97bdb9e1e5f6dd36613018e5"
   
   def install
     bin.install "netlifyctl"
