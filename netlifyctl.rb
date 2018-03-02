@@ -3,7 +3,7 @@ class Netlifyctl < Formula
   homepage "https://github.com/netlify/netlifyctl"
   url "https://github.com/netlify/netlifyctl/releases/download/v0.3.2/netlifyctl-darwin-amd64-0.3.2.tar.gz"
   version "0.3.2"
-  sha256 "16d756046392873b80d4ec806e5b8bc66a3fe000d6304f6bb7997114e4bb2712"
+  sha256 "4c20d5651ef703fc08899e6efc2d1b72d69aeadc6b577cd995be0985a6b0f8b3"
   
   def install
     bin.install "netlifyctl"
